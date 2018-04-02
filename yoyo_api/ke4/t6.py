@@ -21,4 +21,4 @@ body = {
 
 c = "cookies参数"
 
-r = requests.post(url,headers=h,params=par,data=body,cookies=c)
+r = requests.post(url, headers=h, params=par, data=body, cookies=c)

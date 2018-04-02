@@ -8,7 +8,7 @@ host = "https://i.cnblogs.com/"
 s = requests.session()
 
 
-url = host+"EditPosts.aspx?opt=1"
+url = host + "EditPosts.aspx?opt=1"
 
 r1 = s.get(url, verify=False)
 print(r1.url)  # 查看返回的URL

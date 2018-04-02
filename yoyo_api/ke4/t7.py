@@ -1,5 +1,8 @@
-# coding=utf-8
+#!/usr/bin/env python
+
+# -*- coding: UTF-8 -*-
 from selenium import webdriver
+
 
 def sele_login():
     # 配置文件地址，你自己浏览器地址：设置-故障排除-配置文件夹
@@ -12,7 +15,7 @@ def sele_login():
     url = "http://www.cnblogs.com/yoyoketang/"
     driver.get(url)
 
-    cooks = driver.get_cookies()
+    cooks = driver.get_cookies() # selenium获取cookies这么写
     print(cooks)  # list对象
     driver.quit()  # 退出浏览器
     return cooks
