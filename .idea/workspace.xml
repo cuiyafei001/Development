@@ -2,103 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c0881b-b12f-4a08-9a21-a6cad31e360e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/bubble_sort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/canshu.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/py3_cainiao/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/py3_kouding/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/py3_kouding/coures_01/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/py3_kouding/coures_01/c1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/py3_kouding/coures_01/c2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/test_sql/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/py_3course/test_time/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/coures_01.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/coures01.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/login_web.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_01.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_02.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_04.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_Multiplication.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke3/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke3/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke3/ke001.py" afterPath="$PROJECT_DIR$/yoyo_api/ke3/ke001.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke3/ke002.py" afterPath="$PROJECT_DIR$/yoyo_api/ke3/ke002.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke3/ke003.py" afterPath="$PROJECT_DIR$/yoyo_api/ke3/ke003.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke3/ke004.py" afterPath="$PROJECT_DIR$/yoyo_api/ke3/ke004.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke3/ke005.py" afterPath="$PROJECT_DIR$/yoyo_api/ke3/ke005.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/ke001.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/ke001.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/t1.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/t1.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/t2.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/t2.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/t3.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/t3.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/t4.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/t4.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/t5.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/t5.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/t6.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/t6.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke4/t7.py" afterPath="$PROJECT_DIR$/yoyo_api/ke4/t7.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t1.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t1.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t10.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t10.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t2.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t2.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t3.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t3.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t4.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t4.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t5.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t5.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t6.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t6.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t7.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t7.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t8.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t8.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke5/t9.py" afterPath="$PROJECT_DIR$/yoyo_api/ke5/t9.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/.idea/encodings.xml" afterPath="$PROJECT_DIR$/yoyo_api/ke6/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/.idea/misc.xml" afterPath="$PROJECT_DIR$/yoyo_api/ke6/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/.idea/modules.xml" afterPath="$PROJECT_DIR$/yoyo_api/ke6/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/.idea/newtestapi.iml" afterPath="$PROJECT_DIR$/yoyo_api/ke6/.idea/newtestapi.iml" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/yoyo_api/ke6/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/a.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/a.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/a1.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/a1.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/case/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/case/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/case/mokuai1/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/case/mokuai1/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/case/mokuai1/test2.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/case/mokuai1/test2.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/case/mokuai2/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/case/mokuai2/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/case/test_1.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/case/test_1.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/case/test_qq.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/case/test_qq.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/common/HTMLTestRunner.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/common/HTMLTestRunner.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/common/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/common/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/ke6/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6/canshuhua.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/ke6/canshuhua.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6/ke6.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/ke6/ke6.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6/qianzhihouzhi.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/ke6/qianzhihouzhi.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6/qq.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/ke6/qq.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6/qq_api.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/ke6/qq_api.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6/shunxu.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/ke6/shunxu.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/report/2018_03_17_22_07_20result.html" afterPath="$PROJECT_DIR$/yoyo_api/ke6/report/2018_03_17_22_07_20result.html" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/report/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/report/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/report/result.html" afterPath="$PROJECT_DIR$/yoyo_api/ke6/report/result.html" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke6/run_all_case.py" afterPath="$PROJECT_DIR$/yoyo_api/ke6/run_all_case.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke7/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke7/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke7/t1.py" afterPath="$PROJECT_DIR$/yoyo_api/ke7/t1.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke7/t3.py" afterPath="$PROJECT_DIR$/yoyo_api/ke7/t3.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke7/t4.py" afterPath="$PROJECT_DIR$/yoyo_api/ke7/t4.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke7/t5.py" afterPath="$PROJECT_DIR$/yoyo_api/ke7/t5.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke7/tagduixiang.py" afterPath="$PROJECT_DIR$/yoyo_api/ke7/tagduixiang.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke7/yoyo.html" afterPath="$PROJECT_DIR$/yoyo_api/ke7/yoyo.html" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke8/__init__.py" afterPath="$PROJECT_DIR$/yoyo_api/ke8/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/jiekou_kecheng/ke8/a1.py" afterPath="$PROJECT_DIR$/yoyo_api/ke8/a1.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/2_Practice.py" afterPath="$PROJECT_DIR$/py_3course/py3_cainiao/2_Practice.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/3_Practice.py" afterPath="$PROJECT_DIR$/py_3course/py3_cainiao/3_Practice.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/bicycles.py" afterPath="$PROJECT_DIR$/py_3course/py3_cainiao/bicycles.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/data_base.py" afterPath="$PROJECT_DIR$/py_3course/test_sql/data_base.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/date_time.py" afterPath="$PROJECT_DIR$/py_3course/test_time/date_time.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/n001.py" afterPath="$PROJECT_DIR$/py_3course/py3_cainiao/n001.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/n002.py" afterPath="$PROJECT_DIR$/py_3course/py3_cainiao/n002.py" />
-      <change beforePath="$PROJECT_DIR$/py_3course/n003.py" afterPath="$PROJECT_DIR$/py_3course/py3_cainiao/n003.py" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -127,7 +32,7 @@
     <SUITE FILE_PATH="coverage/Development$ke003.coverage" NAME="ke003 Coverage Results" MODIFIED="1520176525826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng1" />
     <SUITE FILE_PATH="coverage/Development$n003.coverage" NAME="n003 Coverage Results" MODIFIED="1520436284006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_3course" />
     <SUITE FILE_PATH="coverage/Development$bicycles.coverage" NAME="bicycles Coverage Results" MODIFIED="1522068986736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_3course" />
-    <SUITE FILE_PATH="coverage/Development$task_01.coverage" NAME="task_01 Coverage Results" MODIFIED="1522495275150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem/selem_task/selem_01" />
+    <SUITE FILE_PATH="coverage/Development$task_01.coverage" NAME="task_01 Coverage Results" MODIFIED="1522680364946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem/selem_task" />
     <SUITE FILE_PATH="coverage/Development$Unittests_in_canshuhua_py.coverage" NAME="Unittests in canshuhua.py Coverage Results" MODIFIED="1521344731832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng/ke6/ke6" />
     <SUITE FILE_PATH="coverage/Development$t5.coverage" NAME="t5 Coverage Results" MODIFIED="1521976302287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng/ke4" />
     <SUITE FILE_PATH="coverage/Development$n004.coverage" NAME="n004 Coverage Results" MODIFIED="1521989284743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_3course" />
@@ -137,7 +42,7 @@
     <SUITE FILE_PATH="coverage/Development$3_Practice__1_.coverage" NAME="3_Practice (1) Coverage Results" MODIFIED="1520349187522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_3course" />
     <SUITE FILE_PATH="coverage/Development$n002__1_.coverage" NAME="n002 (1) Coverage Results" MODIFIED="1520436800580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_3course" />
     <SUITE FILE_PATH="coverage/Development$a1__1_.coverage" NAME="a1 (1) Coverage Results" MODIFIED="1521343459190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng1/ke6" />
-    <SUITE FILE_PATH="coverage/Development$task_05.coverage" NAME="task_05 Coverage Results" MODIFIED="1522679718790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem/selem_task" />
+    <SUITE FILE_PATH="coverage/Development$task_05.coverage" NAME="task_05 Coverage Results" MODIFIED="1522681322052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem/selem_task" />
     <SUITE FILE_PATH="coverage/Development$ke002.coverage" NAME="ke002 Coverage Results" MODIFIED="1521284828936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng1/ke3" />
     <SUITE FILE_PATH="coverage/Development$sum__1_.coverage" NAME="sum (1) Coverage Results" MODIFIED="1520260218184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_Basic tutorials" />
     <SUITE FILE_PATH="coverage/Development$no003.coverage" NAME="no003 Coverage Results" MODIFIED="1520339904590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lm_pykecheng" />
@@ -161,6 +66,7 @@
     <SUITE FILE_PATH="coverage/Development$__canshu.coverage" NAME="_%canshu Coverage Results" MODIFIED="1522471444224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_3course" />
     <SUITE FILE_PATH="coverage/Development$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1521363449841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng/ke4" />
     <SUITE FILE_PATH="coverage/Development$ke001.coverage" NAME="ke001 Coverage Results" MODIFIED="1521361948594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng/ke4" />
+    <SUITE FILE_PATH="coverage/Development$login_51.coverage" NAME="login_51 Coverage Results" MODIFIED="1522680423668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem/selem_task" />
     <SUITE FILE_PATH="coverage/Development$n001.coverage" NAME="n001 Coverage Results" MODIFIED="1520340781115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_Basic tutorials" />
   </component>
   <component name="DatabaseView">
@@ -177,48 +83,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task_04.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_04.py">
+      <file leaf-file-name="task_01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#118#148#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coures01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/coures01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-              <folding>
-                <element signature="e#118#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task_05.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="task_05.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="-150">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="e#45#75#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task_03.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -238,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/py_3Basic/Three_Practice.py" />
         <option value="$PROJECT_DIR$/py_3Basic/3_Practice.py" />
         <option value="$PROJECT_DIR$/py_3Basic/date_time.py" />
         <option value="$PROJECT_DIR$/py_3Basic/__init__.py" />
@@ -288,6 +169,7 @@
         <option value="$PROJECT_DIR$/yoyo_selem/selem_task/task_Multiplication.py" />
         <option value="$PROJECT_DIR$/yoyo_selem/selem_task/task_04.py" />
         <option value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/coures01.py" />
+        <option value="$PROJECT_DIR$/yoyo_selem/selem_task/login_51.py" />
         <option value="$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py" />
       </list>
     </option>
@@ -411,6 +293,44 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.task_05">
+    <configuration name="login_51" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Development" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yoyo_selem/selem_task/login_51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="task_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Development" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yoyo_selem/selem_task/task_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="task_02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -425,25 +345,6 @@
       <module name="Development" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yoyo_selem/selem_task/task_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="task_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_task/selem_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Development" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Development\yoyo_selem\selem_task\task_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -487,39 +388,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="zifuchuan" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Development" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/zifuchuan.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.task_02" />
-      <item index="1" class="java.lang.String" itemvalue="Python.zifuchuan" />
-      <item index="2" class="java.lang.String" itemvalue="Python.task_04" />
-      <item index="3" class="java.lang.String" itemvalue="Python.task_02 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.task_05" />
+      <item index="0" class="java.lang.String" itemvalue="Python.task_04" />
+      <item index="1" class="java.lang.String" itemvalue="Python.task_02 (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.task_05" />
+      <item index="3" class="java.lang.String" itemvalue="Python.login_51" />
+      <item index="4" class="java.lang.String" itemvalue="Python.task_01" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.task_05" />
-        <item index="1" class="java.lang.String" itemvalue="Python.task_04" />
-        <item index="2" class="java.lang.String" itemvalue="Python.task_02 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.zifuchuan" />
-        <item index="4" class="java.lang.String" itemvalue="Python.task_02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.login_51" />
+        <item index="2" class="java.lang.String" itemvalue="Python.task_01" />
+        <item index="3" class="java.lang.String" itemvalue="Python.task_04" />
+        <item index="4" class="java.lang.String" itemvalue="Python.task_02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -550,7 +432,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3312203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5340729" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -590,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yoyo_api/ke4/t4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yoyo_api/ke4/t7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -905,14 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -939,19 +806,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#45#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="225">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#118#148#0" expanded="true" />
@@ -959,11 +824,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_03.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/login_51.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="150">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#45#75#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
