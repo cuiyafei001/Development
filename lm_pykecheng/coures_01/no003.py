@@ -12,7 +12,7 @@ else:
 c = 3
 
 # 逻辑运算   and  or  not
-if c==3 or a==2:
+if c == 3 or a == 2:
 	pass
 
 

@@ -2,12 +2,10 @@
 a = 10
 
 while a > 1:
-    a = a -1
+    a = a - 1
     print("111111")
     print(a)
 print(a)
-
-
 
 # a = list(range(1, 20))  # [10:100)
 # print(a)
@@ -33,9 +31,6 @@ print(a)
 # n = "hello world!"
 # for i in n:
 #     print("i")
-
-
-
 
 # a = 30
 # if a > 50:

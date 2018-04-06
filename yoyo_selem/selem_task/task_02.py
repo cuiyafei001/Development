@@ -6,7 +6,6 @@ web自动化作业悠悠我心 昨天 星期日 08:59
 笔试题2:
 用Python写一个冒泡排序，注意打印出排序过程中数据交换过程
 """
-
 lis = [12, 4, 66, 78, 11, 6, 88, 45, 29]
 print("初始化list：%s" % lis)
 num = len(lis)
@@ -22,4 +21,3 @@ while 1:
     if s == num - 1:
         break
 print("list最终排序结果：%s" % lis)
-
