@@ -2,29 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c0881b-b12f-4a08-9a21-a6cad31e360e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_001.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_002.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_add.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_01/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_02/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_04/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_04/xpath_css.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/Development.iml" afterPath="$PROJECT_DIR$/.idea/Development.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/aa.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03/aa.py" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/login_web.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_02/login_web.py" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_01.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_01.py" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_02.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_sort.py" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_03.py" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_04.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03/task_03.py" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05/task_05.py" />
-      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_Multiplication.py" afterPath="$PROJECT_DIR$/yoyo_selem/selem_task/task_01/task_Multiplication.py" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/coures_01.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/bianliang.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/duilie.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/helloworld.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/kongzhiliu.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/luoji.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/shujuleixing.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/zhengshu.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/zifuchuan.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/classkongge.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/dingwei.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/fushudingwei.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/jianpanshijian.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/nameshuxing.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/shubiaoshijian.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/t1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/coures01.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/alertpop.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/handle.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/t1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/xialakuang.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/yinshidengdai.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/ee/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/loginout.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/t1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/t2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/t3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/t4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/t5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/t6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/ke5/t7.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/.idea/sele_project_t9.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/case/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/case/mokuai1/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/case/mokuai1/test_0001.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/case/mokuai2/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/case/mokuai2/test_002.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/case/test_add.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/case/test_login.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/common/HTMLTestRunner_yo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/common/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/report/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/report/report2018_04_07_22_31_04.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/run_all_case.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/run_all_case优化版，带发邮件.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_001.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_002.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_add.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_01.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_03.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_sort.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_01/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_01/task_Multiplication.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_02/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_02/login_web.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03/aa.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_03/task_03.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_04/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_04/xpath_css.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yoyo_selem/selem_task/task_05/task_05.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,6 +142,7 @@
     <SUITE FILE_PATH="coverage/Development$no006.coverage" NAME="no006 Coverage Results" MODIFIED="1520164733928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Development$test_unit.coverage" NAME="test_unit Coverage Results" MODIFIED="1523104084453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05" />
     <SUITE FILE_PATH="coverage/Development$Unittests_for_test_002_Test.coverage" NAME="Unittests for test_002.Test Coverage Results" MODIFIED="1523111739219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05" />
+    <SUITE FILE_PATH="coverage/Development$Unittests_in_t1_py.coverage" NAME="Unittests in t1.py Coverage Results" MODIFIED="1523113818391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/ke5" />
     <SUITE FILE_PATH="coverage/Development$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1521367318472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou_kecheng/ke5" />
     <SUITE FILE_PATH="coverage/Development$n002.coverage" NAME="n002 Coverage Results" MODIFIED="1522474707211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_3course/py3_cainiao" />
     <SUITE FILE_PATH="coverage/Development$no001.coverage" NAME="no001 Coverage Results" MODIFIED="1522916425072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lm_pykecheng/coures_01" />
@@ -117,9 +181,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="xpath_css.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_04/xpath_css.py">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_04/xpath_css.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
+            <state relative-caret-position="950">
               <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="e#145#175#0" expanded="true" />
@@ -129,7 +193,7 @@
         </entry>
       </file>
       <file leaf-file-name="test_add.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_add.py">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_add.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
               <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -139,7 +203,7 @@
         </entry>
       </file>
       <file leaf-file-name="test_001.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_001.py">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_001.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -149,23 +213,33 @@
         </entry>
       </file>
       <file leaf-file-name="test_002.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_002.py">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_002.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="700">
+              <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run_all_case优化版，带发邮件.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/run_all_case优化版，带发邮件.py">
+      <file leaf-file-name="run_all_case优化版，带发邮件.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/sele_project_t9/run_all_case优化版，带发邮件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
               <folding>
                 <element signature="e#15#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/ke5/t1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -181,9 +255,9 @@
         </entry>
       </file>
       <file leaf-file-name="task_05.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_05/task_05.py">
+        <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_05/task_05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="200">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#45#75#0" expanded="true" />
@@ -207,7 +281,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jiekou_kecheng/ke4/t3.py" />
         <option value="$PROJECT_DIR$/jiekou_kecheng/ke4/ke001.py" />
         <option value="$PROJECT_DIR$/jiekou_kecheng/ke4/t2.py" />
         <option value="$PROJECT_DIR$/jiekou_kecheng/ke8/a1.py" />
@@ -258,6 +331,7 @@
         <option value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_002.py" />
         <option value="F:/sele_project_code/run_all_case.py" />
         <option value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/run_all_case优化版，带发邮件.py" />
+        <option value="$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/ke5/t1.py" />
       </list>
     </option>
   </component>
@@ -267,11 +341,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="290" />
+    <option name="y" value="24" />
+    <option name="width" value="980" />
+    <option name="height" value="498" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -318,25 +392,33 @@
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="coures05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
+              <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
+              <item name="coures05" type="462c0819:PsiDirectoryNode" />
+              <item name="ke5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Development" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Development" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="coures05" type="462c0819:PsiDirectoryNode" />
               <item name="sele_project_t9" type="462c0819:PsiDirectoryNode" />
@@ -344,7 +426,7 @@
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="coures05" type="462c0819:PsiDirectoryNode" />
               <item name="sele_project_t9" type="462c0819:PsiDirectoryNode" />
@@ -353,7 +435,7 @@
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="coures05" type="462c0819:PsiDirectoryNode" />
               <item name="sele_project_t9" type="462c0819:PsiDirectoryNode" />
@@ -363,7 +445,7 @@
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="coures05" type="462c0819:PsiDirectoryNode" />
               <item name="sele_project_t9" type="462c0819:PsiDirectoryNode" />
@@ -373,7 +455,7 @@
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="coures05" type="462c0819:PsiDirectoryNode" />
               <item name="sele_project_t9" type="462c0819:PsiDirectoryNode" />
@@ -382,7 +464,7 @@
             <path>
               <item name="Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Development" type="462c0819:PsiDirectoryNode" />
-              <item name="yoyo_selem" type="462c0819:PsiDirectoryNode" />
+              <item name="yoyo_selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="selem_coures" type="462c0819:PsiDirectoryNode" />
               <item name="coures05" type="462c0819:PsiDirectoryNode" />
               <item name="sele_project_t9" type="462c0819:PsiDirectoryNode" />
@@ -452,26 +534,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_002.Test">
-    <configuration name="test_add" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_task/task_05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Development" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Development\yoyo_selem\selem_coures\coures05\test_add.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in t1.py">
     <configuration name="test_unit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -491,34 +554,49 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for test_002.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for yoyo_selem_coures.selem_coures.coures05.test_002.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Development" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_002.Test&quot;" />
+      <option name="_new_target" value="&quot;yoyo_selem_coures.selem_coures.coures05.test_002.Test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in t1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/ke5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Development" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/ke5/t1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test_001.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Development" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_001.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_001.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test_002.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -526,30 +604,30 @@
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem/selem_coures/coures05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Development" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_002.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_002.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test_add" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_unit" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_001.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_002.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_002.Test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test_unit" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_001.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_002.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for yoyo_selem_coures.selem_coures.coures05.test_002.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in t1.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for test_002.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_002.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_001.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_unit" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_add" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in t1.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for yoyo_selem_coures.selem_coures.coures05.test_002.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_002.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_001.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_unit" />
       </list>
     </recent_temporary>
   </component>
@@ -570,14 +648,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_002_Test - 2018.04.07 at 21h 18m 18s.xml">
-      <configuration name="Unittests for test_002.Test" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_002_Test - 2018.04.07 at 21h 20m 14s.xml">
       <configuration name="Unittests for test_002.Test" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_test_002_Test - 2018.04.07 at 22h 35m 39s.xml">
       <configuration name="Unittests for test_002.Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_t1_py - 2018.04.07 at 23h 10m 18s.xml">
+      <configuration name="Unittests in t1.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_001_py - 2018.04.07 at 20h 29m 40s.xml">
       <configuration name="Unittests in test_001.py" configurationId="tests" />
@@ -602,22 +680,22 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27892235" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2543235" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2877013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17057101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39776194" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39776194" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -648,13 +726,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yoyo_api/ke8/retoken.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yoyo_api/ke8/test_zentao.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3">
@@ -704,7 +775,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/coures01.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures03/coures01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
@@ -712,77 +783,59 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/bb.py" />
-    <entry file="file://$PROJECT_DIR$/lm_pykecheng/coures_01/no002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lm_pykecheng/coures_01/no003.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lm_pykecheng/coures_01/no001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/zifuchuan.py">
+    <entry file="file://$PROJECT_DIR$/lm_pykecheng/coures_01/no002.py" />
+    <entry file="file://$PROJECT_DIR$/lm_pykecheng/coures_01/no003.py" />
+    <entry file="file://$PROJECT_DIR$/lm_pykecheng/coures_01/no001.py" />
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/zifuchuan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/zhengshu.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/zhengshu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/shujuleixing.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/shujuleixing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-375">
           <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/luoji.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/luoji.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/kongzhiliu.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/kongzhiliu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1025">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/helloworld.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/bianliang.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/bianliang.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures01/ke1/duilie.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures01/ke1/duilie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
@@ -796,154 +849,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_01.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_00/task_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_sort.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_00/task_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_00/task_03.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_00/task_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_02/login_web.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_02/login_web.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_01/task_Multiplication.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_01/task_Multiplication.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_03/aa.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_03/aa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_03/task_03.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_03/task_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t3.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures04/ke4/t3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t4.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures04/ke4/t4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t2.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures04/ke4/t2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t1.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures04/ke4/t1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures04/ke4/t5.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures04/ke4/t5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/handle.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures03/ke3/handle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/t1.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures03/ke3/t1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-200">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/xialakuang.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures03/ke3/xialakuang.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-150">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/yinshidengdai.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures03/ke3/yinshidengdai.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/fushudingwei.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures02/ke2/fushudingwei.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/jianpanshijian.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures02/ke2/jianpanshijian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/dingwei.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures02/ke2/dingwei.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures02/ke2/classkongge.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures02/ke2/classkongge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures03/ke3/alertpop.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures03/ke3/alertpop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_001.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -955,15 +1008,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#3463#3478#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_05/task_05.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_05/task_05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="200">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#45#75#0" expanded="true" />
@@ -971,9 +1021,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_task/task_04/xpath_css.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_task/task_04/xpath_css.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
+        <state relative-caret-position="950">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="e#145#175#0" expanded="true" />
@@ -981,7 +1031,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_add.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_add.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -997,21 +1047,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/test_002.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/test_002.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="700">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoyo_selem/selem_coures/coures05/sele_project_t9/run_all_case优化版，带发邮件.py">
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/sele_project_t9/run_all_case优化版，带发邮件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
             <element signature="e#15#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yoyo_selem_coures/selem_coures/coures05/ke5/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
