@@ -3,6 +3,7 @@ import unittest
 from selenium import webdriver
 import time
 
+
 class TestLogin(unittest.TestCase):
     u'''测试登录功能点'''
 
@@ -57,7 +58,6 @@ class TestLogin(unittest.TestCase):
         self.assertTrue("admin" == t)
         # self.assertEqual("admin", t)
 
-
     def tearDown(self):
         time.sleep(3)  # 页面跳转地方sleep下
         self.driver.delete_all_cookies() # 退出登录
@@ -70,6 +70,7 @@ class TestLogin(unittest.TestCase):
 
     # def tearDown(self):
     #     self.driver.quit()
+
 
 if __name__ == "__main__":
     unittest.main()
